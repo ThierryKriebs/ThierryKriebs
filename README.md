@@ -1,16 +1,22 @@
-## Hi there 👋
+# Titre de niveau 1
 
-<!--
-**ThierryKriebs/ThierryKriebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Titre de niveau 2
 
-Here are some ideas to get you started:
+## Mettre du texte en gras
+**Du texte en gras**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mettre du texte en italique
+_Du texte en italique_
+
+*Du texte aussi en italique*
+
+## Un tableau
+|Entête1|Entête2|
+|-------|-------|
+|Texte|Texte|
+|Texte|Texte|
+|Texte|Texte|
+
+## Une image
+![Un chat](https://images.unsplash.com/photo-1533738363-b7f9aef128ce?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
